@@ -1,0 +1,142 @@
+Copyright (c) 2026 boop
+All Rights Reserved.
+
+BOOP PROPRIETARY SOFTWARE LICENSE
+
+This software, including its source code, documentation, assets, and associated
+files (collectively, the "Software"), is proprietary software owned by boop.
+This is source-available software, not open source software.
+
+The Software may be publicly available on GitHub for viewing and downloading.
+Public availability does not grant permission to redistribute, modify, publish,
+sell, or create alternative versions of the Software without prior written permission from the copyright holder.
+
+1. PERSONAL USE
+
+You may:
+
+- View the source code.
+- Download the Software.
+- Run the original, unmodified version of the Software for personal and
+  non-commercial purposes.
+
+2. NO REDISTRIBUTION OF DIFFERENT VERSIONS
+
+The Software may only be distributed in the original version provided by the
+copyright holder.
+
+You may NOT, without prior written permission from the copyright holder:
+
+- Publish or distribute a modified version of the Software.
+- Publish or distribute a fork of the Software.
+- Publish or distribute a modified build or modified copy of the Software.
+- Create or distribute an alternative version of the application.
+- Distribute patches, modifications, or derivative versions intended to change
+  the behavior or functionality of the Software.
+- Repackage the Software and distribute it as a different product.
+- Make any modified or derivative version available to the public, whether
+  free of charge or for payment.
+
+Any version of the Software that differs from the original version may only be
+distributed with explicit prior written permission from the copyright holder.
+
+3. NO COMMERCIAL USE
+
+You may NOT use, sell, license, sublicense, monetize, or otherwise commercially
+exploit the Software or any modified or derivative version without prior
+written permission from the copyright holder.
+
+This includes, but is not limited to:
+
+- Selling the Software.
+- Selling a modified version.
+- Including the Software in a paid product or service.
+- Offering the Software as a paid hosted service or SaaS.
+- Monetizing a fork or derivative version.
+- Using substantial portions of the source code in a commercial product.
+
+4. PRIVATE MODIFICATIONS
+
+You may modify the Software privately for personal and non-commercial
+purposes.
+
+However, private modifications may not be published, distributed, shared with
+third parties without prior written permission from the copyright holder, or
+otherwise made publicly available.
+
+The moment a modified version is distributed or made available to another
+person, prior written permission from the copyright holder is required.
+
+5. FORKS
+
+Forking the repository on GitHub does not grant permission to distribute,
+publish, sell, or commercially exploit a modified version of the Software.
+
+Any publicly distributed fork must remain identical to the original Software
+unless the copyright holder has provided explicit prior written permission
+for the modifications.
+
+6. CONTRIBUTIONS
+
+By submitting a pull request, patch, issue, or other contribution to the
+Software (a "Contribution"), you agree that:
+
+- You grant the copyright holder a perpetual, worldwide, royalty-free,
+  irrevocable license to use, modify, and incorporate your Contribution into
+  the Software under this license, or any other license the copyright holder
+  chooses.
+- Your Contribution is your own original work, and you have the right to
+  grant this license.
+- Your Contribution itself remains subject to this license once incorporated;
+  you retain no special rights over the Software as a whole as a result of
+  contributing.
+
+The copyright holder is under no obligation to accept or use any
+Contribution.
+
+7. PERMISSION
+
+If you wish to:
+
+- Modify the Software and distribute the modified version;
+- Publish a fork;
+- Create an alternative version of the application;
+- Redistribute a modified version;
+- Use the Software commercially;
+- Sell or monetize the Software or a derivative version;
+
+you must contact the copyright holder and obtain explicit written permission
+BEFORE doing so.
+
+Permission is not implied by the public availability of the repository.
+
+8. OWNERSHIP AND TRADEMARKS
+
+The Software and all original source code remain the intellectual property of
+the copyright holder.
+
+No ownership or intellectual property rights are transferred by downloading,
+viewing, or using the Software.
+
+9. THIRD-PARTY COMPONENTS
+
+This license applies only to material owned by the copyright holder.
+
+Third-party libraries, dependencies, assets, or other components remain
+subject to their respective licenses.
+
+10. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+11. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this license are reserved by the
+copyright holder.
+
+Copyright (c) 2026 boop
+All Rights Reserved.
